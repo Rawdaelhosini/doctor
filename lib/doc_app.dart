@@ -25,4 +25,4 @@ class DocApp extends StatelessWidget {
           onGenerateRoute: appRouter.generateRoute,
         ));
   }
-}
+}      
