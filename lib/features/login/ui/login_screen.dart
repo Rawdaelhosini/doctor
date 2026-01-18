@@ -1,7 +1,7 @@
 import 'package:doctor/core/helpers/spacing.dart';
 import 'package:doctor/core/theming/styles.dart';
 import 'package:doctor/features/login/logic/login_cubit.dart';
-import 'package:doctor/features/login/ui/widgets/already_have_account_text.dart';
+import 'package:doctor/features/login/ui/widgets/dont_have_account_text.dart';
 import 'package:doctor/core/widgets/app_text_button.dart';
 import 'package:doctor/features/login/ui/widgets/email_and_password.dart';
 import 'package:doctor/features/login/ui/widgets/login_bloc_listener.dart';
