@@ -24,6 +24,7 @@ class DontHaveAccountText extends StatelessWidget {
                 TapGestureRecognizer()
                   ..onTap = () {
                     context.pushReplacementNamed(Routes.signUpScreen);
+                    
                   },
           ),
         ],

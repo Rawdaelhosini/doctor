@@ -19,7 +19,7 @@ class DoctorImageAndText extends StatelessWidget {
               stops: const [0.14, 0.4],
             ),
           ),
-          child: Image.asset('assets/images/doctor.png'),
+          child: Image.asset('assets/images/doctor_1.png'),
         ),
         Positioned(
           bottom: 30,
